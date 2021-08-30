@@ -24,15 +24,6 @@ ServiceChat 是一套运行在 node.js 的客服聊天网页，包括客户端�
 - 用户多台设备在线时，强制另一台设备下线
 - 客服多台设备在线时，强制旧客服端下线，并且中断会员的会话
 
-## 项目地址
-
-GitHub：[https://github.com/Arles-hsh/serviceChat](https://github.com/Arles-hsh/serviceChat)
-
-码云：[https://gitee.com/service-chat/service-chatt](https://gitee.com/service-chat/service-chat)
-
-## 如果您对此项目有兴趣，可以点 “Star” 支持一下 谢谢！
-
-## 如果有任何的疑惑或建议，请在评论中提出，欢迎评论！
 
 ## 效果图
 
@@ -167,7 +158,7 @@ npm run serve
   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210103094833522.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjAwMDgxNg==,size_16,color_FFFFFF,t_70#pic_center)
 - 前端：
 
-  Chat.vue 是核心文件，需要看懂的话需要一些时间，html 和 css 样式虽然有点多，但这些相信你有基础的话还是不难理解的，其中有点难度的可能是 js 的处理逻辑，如果不懂的可以随时来打扰~
+  Chat.vue 是核心文件，需要看懂的话需要一些时间，html 和 css 样式虽然有点多，但这些相信你有基础的话还是不难理解的，其中有点难度的可能是 js 的处理逻辑，qq:3332673880
 
 ## 后言
 
